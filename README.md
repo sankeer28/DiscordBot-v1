@@ -53,6 +53,9 @@ Make sure these intents are turned on ![image](https://github.com/sankeer-28/Dis
 
 line 333 of index.js: please provide your discord bot token here. 
 
-## click on startthebot.bat to run on your pc. 
-you can also run this bot 24/7 using repl.it and a free website pinging service. You can see an example using this code [here](https://replit.com/@sankeer28/discord-bot-example?v=1)
+## Click on startthebot.bat to run on your pc. 
+## Running the bot 24/7
+you can also run this bot 24/7 using repl.it and a free website pinging service. 
+You can see an example using this code [here](https://replit.com/@sankeer28/discord-bot-example?v=1)
+you made need to install discord.js if the bot fails to work.
 
