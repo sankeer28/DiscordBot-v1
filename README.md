@@ -4,6 +4,8 @@
 I made it with little  knowlege of discord.js, node.js.
 If there is any cool feature you find interesting please use it.
 ## install node.js by typing "npm install discord.js" into the terminal of the bot folder
+![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/129ce052-c3de-4a90-8409-60106429f9df)
+type cmd into the search bar of file explorer and Enter.
 ##type !help in chat for basic help
 
 ## Delete specific gifs from specific users
