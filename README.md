@@ -1,13 +1,14 @@
 # Discord Bot 
-## A discord bot I made for fun. This is the first Discord bot I made
+## A Discord Bot I made for fun. 
 #### ⚪Search Google images for any image or gif and bot send that to the chat
+#### ⚪Delete specific gifs/images
 #### ⚪Random Quote, joke, gif of cat, gif of dog
 #### ⚪Reverse image search of any anime,manga...
 #### ⚪Search Pexels for a copyright free image
 #### ⚪Search reddit for a random top post of the day
 #### ⚪Notify when any user is playng a specific game and how long they played it
 
-I made it with little  knowlege of discord.js, node.js.
+This is my first Discord bot. I made it with little knowlege of discord.js.
 If there is any cool feature you find interesting please use it.
 ## Install node.js by typing "npm install discord.js" into the terminal of the bot folder
    ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/129ce052-c3de-4a90-8409-60106429f9df)
