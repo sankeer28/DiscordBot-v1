@@ -1,9 +1,9 @@
-# DiscordBot
+# Discord Bot With some Cool Features
 # A discord bot I made for fun 
 ### This is the first Discord bot I made
 I made it with little  knowlege of discord.js, node.js.
 If there is any cool feature you find interesting please use it.
-## install node.js by typing "npm install discord.js" into the terminal of the bot folder
+## Install node.js by typing "npm install discord.js" into the terminal of the bot folder
 ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/129ce052-c3de-4a90-8409-60106429f9df)
 
 type cmd into the search bar of file explorer and Enter.
@@ -13,15 +13,15 @@ type cmd into the search bar of file explorer and Enter.
 Line 35 of index.js: delete specific gifs,images from specific users. put banned urls into the array links. put specific users in targetUserIds
 
 ## Random Quotes,Jokes,Gifs
-line 50 in index.js: type 'quote' into the chat. returns a random quote pulled from https://type.fit/api/quotes
+line 50 in index.js: type 'quote' into the chat. returns a random [quote](https://type.fit/api/quotes)
 
-line 67 of index.js: type 'joke' into the chat. returns a random joke pulled from https://official-joke-api.appspot.com/random_joke
+line 67 of index.js: type 'joke' into the chat. returns a random [joke](https://official-joke-api.appspot.com/random_joke)
 
-line 82 of index.js: type 'cat' into the chat. returns a random gif of a cat pulled from https://api.thecatapi.com/v1/images/search?mime_types=gif
+line 82 of index.js: type 'cat' into the chat. returns a random gif of a [cat](https://api.thecatapi.com/v1/images/search?mime_types=gif)
 
-line 103 of index.js: type 'dog' into the chat. returns a random gif of a dog pulled from https://api.thedogapi.com/v1/images/search?mime_types=gif
+line 103 of index.js: type 'dog' into the chat. returns a random gif of a [dog](https://api.thedogapi.com/v1/images/search?mime_types=gif)
 
-## Google images
+## Google images 
 line 124-188 of index.js: type 'google' or 'search' into the chat followed by a space and a query. returns an image (or gif, if specified in the query) of the query in the chat. 
 Google search Engine id and google api must be given in line 125 and 126. 
 ### 🔍 Making a Custom Google Search Engine
@@ -39,10 +39,10 @@ saucenao api key must be put in line 191. please ceraet an account at https://sa
 ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/9565dc22-ca30-4692-9cfb-2ca40fe1fbdd)
 
 
-## Pexels image search (not very usefull, might as well delete this code)
+## Pexels image search 🔍 (not very usefull, might as well delete this code)
 line 228-260 of index.js: type 'image' followed by a space and a query. uses the pexels search to find stock copywrite free images, please provide your pexels api key on line 240.
 
-## Random Reddit post
+## Random Reddit post 🎲
 line 262-294 of index.js: type 'r/' followed by a subreddit name. returns a random image from the top posts of the day from specified reddit.
 
 ## Game Notifier
@@ -54,7 +54,7 @@ specified channel. please modify the message as you wish on line 325. the bot wi
 ### If you dont know how, please google how to make a discord bot.
 Make sure these intents are turned on ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/18afdf07-fa72-4a18-876c-1f25d6b1e4f1)
 
-line 333 of index.js: please provide your discord bot token here. 
+## line 333 of index.js: please provide your discord bot token here. 
 
 ## Click on startthebot.bat to run on your pc. 
 ## Running the bot 24/7
