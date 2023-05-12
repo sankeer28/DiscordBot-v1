@@ -10,7 +10,8 @@
 
 This is my first Discord bot. I made it with little knowlege of discord.js.
 If there is any cool feature you find interesting please use it.
-## Install node.js by typing "npm install discord.js" into the terminal of the bot folder
+## Install node.js by typing the following into the terminal of the bot folder
+      npm install discord.js
    ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/129ce052-c3de-4a90-8409-60106429f9df)
 
 Type cmd into the search bar of file explorer and Enter.
@@ -53,8 +54,8 @@ line 228-260 of index.js: type 'image' followed by a space and a query. uses the
 line 262-294 of index.js: type 'r/' followed by a subreddit name. returns a random image from the top posts of the day from specified reddit.
 
 ## Game Notifier 🎮
-line 298-328 of index.js: provide a specific channel id to send a message. on line 301 put the names of the target games. if any user in your discord server is playing that specific game, thee bot will send a message in 
-specified channel. please modify the message as you wish on line 325. the bot will keep count of how long the user is playing the game.
+ line 298-328 of index.js: provide a specific channel id to send a message. on line 301 put the names of the target games. if any user in your discord server is playing that specific game, thee bot will send a message in 
+ specified channel. please modify the message as you wish on line 325. the bot will keep count of how long the user is playing the game.
 ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/08efa1d5-1084-4843-a794-057cdce9d6a5)
 
 
@@ -65,7 +66,8 @@ Make sure these intents are turned on ![image](https://github.com/sankeer-28/Dis
 
 ## Click on startthebot.bat to run locally. 
 ## Running the bot 24/7
-you can also run this bot 24/7 using repl.it and a free website pinging service. 
-You can see an example using this code [here](https://replit.com/@sankeer28/discord-bot-example?v=1)
-you made need to install discord.js if the bot fails to work.
+   you can also run this bot 24/7 using repl.it and a free website pinging service. 
+    You can see an example [here](https://replit.com/@sankeer28/discord-bot-example?v=1).
+     Copy index.js from here to there.
+
 
