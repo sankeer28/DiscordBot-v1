@@ -18,7 +18,7 @@ if (message.content === '!help') {
   const helpEmbed = new Discord.MessageEmbed()
     .setColor('#0099ff')
     .setTitle('BOT COMMANDS')
-    .setThumbnail('https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png')
+    .setThumbnail('https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png') //replace this with any image you want
     .addField('search + query: find a random image off google images')
     .addField('google + query: find a random image off google images')
     .addField('sauce + image url: using saucenao finds the source of the image')
