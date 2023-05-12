@@ -3,7 +3,7 @@
 #### ⚪[Search Google images for any image or gif and bot send that to the chat](https://github.com/sankeer-28/DiscordBot#google-images)
 #### ⚪[Delete specific gifs/images](https://github.com/sankeer-28/DiscordBot#delete-specific-gifs-from-specific-users)
 #### ⚪[Random Quote, joke, gif of cat, gif of dog](https://github.com/sankeer-28/DiscordBot#random-quotesjokesgifs)
-#### ⚪Reverse image search of any anime,manga...
+#### ⚪[Reverse image search of any anime,manga...](https://github.com/sankeer-28/DiscordBot#reverse-image-search-for-mangaanimeetc)
 #### ⚪Search Pexels for a copyright free image
 #### ⚪Search reddit for a random top post of the day
 #### ⚪Notify when any user is playng a specific game and how long they played it
