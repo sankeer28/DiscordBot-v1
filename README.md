@@ -32,11 +32,11 @@ line 103 of index.js: type 'dog' into the chat. returns a random gif of a [dog](
 ## Google images 
 line 124-188 of index.js: type 'google' or 'search' into the chat followed by a space and a query. returns an image (or gif, if specified in the query) of the query in the chat. 
 Google search Engine id and google api must be given in line 125 and 126. 
-### 🔍 Making a Custom Google Search Engine
+### Making a Custom Google Search Engine🔍 
 Login to the [Programmable Search Engine Control Panel](https://programmablesearchengine.google.com/) and create a new search engine.
 Give your search engine a name, and select Search the entire. SafeSearch is optional.
 Once created, make a note of the Search engine ID. This will be put on line 125.
-
+### Getting Your API Keys 🔑
 To get your API keys [Visit this page](https://developers.google.com/custom-search/v1/overview#api_key) and click blue button that says Get a Key.
 In the menu that appears, click + Create a new project and enter a project name (ex. Discord Image Search Bot). Then click Next.
 Your API key will be displayed. Make a note of this,and put it in line 126. you may create new projects which will give you another api key. Each key has a daily limit of 100 searches hence the need of multiple api keys.
