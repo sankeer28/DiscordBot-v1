@@ -1,5 +1,5 @@
 # Discord Bot 
-## A Discord Bot I made for fun. 
+###### My personal Discord bot, built using the Discord.js library. The bot is designed to add fun and functionality to my Discord server.😊
 #### ⚪[Search Google images for any image or gif and bot send that to the chat](https://github.com/sankeer-28/DiscordBot#google-images)
 #### ⚪[Delete specific gifs/images](https://github.com/sankeer-28/DiscordBot#delete-specific-gifs-from-specific-users)
 #### ⚪[Random Quote, joke, gif of cat, gif of dog](https://github.com/sankeer-28/DiscordBot#random-quotesjokesgifs)
