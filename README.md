@@ -1,4 +1,10 @@
-# Discord Bot With some Cool Features
+# Discord Bot With some Cool Features:
+⚪Search Google images for any image or gif and bot send that to the chat
+⚪Random Quote,Joke,gif of cat,gif of dog
+⚪Reverse image search of any anime,manga...
+⚪Search Pexels for a copyright free image
+⚪Search reddit for a random top post of the day
+⚪Notify when any user is playng a specific game
 # A discord bot I made for fun 
 ### This is the first Discord bot I made
 I made it with little  knowlege of discord.js, node.js.
