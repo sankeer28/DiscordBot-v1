@@ -14,7 +14,7 @@ If there is any cool feature you find interesting please use it.
       npm install discord.js
    ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/129ce052-c3de-4a90-8409-60106429f9df)
 
-Type cmd into the search bar of file explorer and Enter.
+Type cmd into the search bar of the discord bot file in file explorer and Enter.
 ## Type !help in chat for basic help
 
 ## Delete specific gifs from specific users
