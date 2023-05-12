@@ -47,7 +47,7 @@ saucenao api key must be put in line 191. please create a [saucenao account]( ht
 ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/9565dc22-ca30-4692-9cfb-2ca40fe1fbdd)
 
 
-## Pexels image search 🔍 (not very usefull, might as well delete this code)
+## Pexels image search 🔍 
 line 228-260 of index.js: type 'image' followed by a space and a query. uses the pexels search to find stock copywrite free images, please provide your pexels api key on line 240.
 
 ## Random Reddit post 🎲
