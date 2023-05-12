@@ -66,7 +66,7 @@ Make sure these intents are turned on ![image](https://github.com/sankeer-28/Dis
 
 ## Click on startthebot.bat to run locally. 
 ## Running the bot 24/7
-   you can also run this bot 24/7 using repl.it and a free website pinging service. 
+   You can also run this bot 24/7 using repl.it and a free website pinging service. 
     You can see an example [here](https://replit.com/@sankeer28/discord-bot-example?v=1).
      Copy index.js from here to there.
 
