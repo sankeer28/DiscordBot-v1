@@ -42,7 +42,7 @@ In the menu that appears, click + Create a new project and enter a project name 
 Your API key will be displayed. Make a note of this,and put it in line 126. you may create new projects which will give you another api key. Each key has a daily limit of 100 searches hence the need of multiple api keys.
 
 ## Reverse image search (for manga,anime,etc😳)
-line 191 of index.js: type 'sauce' followed by a space then a url of any image (perferable from anime,manga,doujin) will return the source url which contains the provided url if the similarity is over 50% using saucenao. 
+line 191 of index.js: type 'sauce' followed by a space then a url of any image (perferably from anime, manga, art) will return the source url which contains the provided url if the similarity is over 50% using saucenao. 
 saucenao api key must be put in line 191. please create a [saucenao account]( https://saucenao.com/) and find your api in your account settings.
 ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/9565dc22-ca30-4692-9cfb-2ca40fe1fbdd)
 
