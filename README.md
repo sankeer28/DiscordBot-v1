@@ -1,19 +1,19 @@
-# Discord Bot With some Cool Features:
-⚪Search Google images for any image or gif and bot send that to the chat
-⚪Random Quote,Joke,gif of cat,gif of dog
-⚪Reverse image search of any anime,manga...
-⚪Search Pexels for a copyright free image
-⚪Search reddit for a random top post of the day
-⚪Notify when any user is playng a specific game
-# A discord bot I made for fun 
-### This is the first Discord bot I made
+# Discord Bot 
+## A discord bot I made for fun. This is the first Discord bot I made
+#### ⚪Search Google images for any image or gif and bot send that to the chat
+#### ⚪Random Quote, joke, gif of cat, gif of dog
+#### ⚪Reverse image search of any anime,manga...
+#### ⚪Search Pexels for a copyright free image
+#### ⚪Search reddit for a random top post of the day
+#### ⚪Notify when any user is playng a specific game and how long they played it
+
 I made it with little  knowlege of discord.js, node.js.
 If there is any cool feature you find interesting please use it.
 ## Install node.js by typing "npm install discord.js" into the terminal of the bot folder
-![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/129ce052-c3de-4a90-8409-60106429f9df)
+   ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/129ce052-c3de-4a90-8409-60106429f9df)
 
-type cmd into the search bar of file explorer and Enter.
-##type !help in chat for basic help
+Type cmd into the search bar of file explorer and Enter.
+## Type !help in chat for basic help
 
 ## Delete specific gifs from specific users
 Line 35 of index.js: delete specific gifs,images from specific users. put banned urls into the array links. put specific users in targetUserIds
@@ -51,8 +51,8 @@ line 228-260 of index.js: type 'image' followed by a space and a query. uses the
 ## Random Reddit post 🎲
 line 262-294 of index.js: type 'r/' followed by a subreddit name. returns a random image from the top posts of the day from specified reddit.
 
-## Game Notifier
-line 298-328 of index.js: provide a specific channel id to send a message. on line 301 put the names of the target names. if any user in your discord server is playing that specific game, thee bot will send a message in 
+## Game Notifier 🎮
+line 298-328 of index.js: provide a specific channel id to send a message. on line 301 put the names of the target games. if any user in your discord server is playing that specific game, thee bot will send a message in 
 specified channel. please modify the message as you wish on line 325. the bot will keep count of how long the user is playing the game.
 ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/08efa1d5-1084-4843-a794-057cdce9d6a5)
 
@@ -62,7 +62,7 @@ Make sure these intents are turned on ![image](https://github.com/sankeer-28/Dis
 
 ## line 333 of index.js: please provide your discord bot token here. 
 
-## Click on startthebot.bat to run on your pc. 
+## Click on startthebot.bat to run locally. 
 ## Running the bot 24/7
 you can also run this bot 24/7 using repl.it and a free website pinging service. 
 You can see an example using this code [here](https://replit.com/@sankeer28/discord-bot-example?v=1)
