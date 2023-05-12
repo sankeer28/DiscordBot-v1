@@ -3,7 +3,7 @@
 ### This is the first Discord bot I made
 I made it with little  knowlege of discord.js, node.js.
 If there is any cool feature you find interesting please use it.
-
+## install node.js by typing "npm install discord.js" into the terminal of the bot folder
 ##type !help in chat for basic help
 
 ## Delete specific gifs from specific users
