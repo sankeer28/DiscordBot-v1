@@ -6,7 +6,7 @@
 #### ⚪[Reverse image search of any anime,manga...](https://github.com/sankeer-28/DiscordBot#reverse-image-search-for-mangaanimeetc)
 #### ⚪[Search Pexels for a copyright free image](https://github.com/sankeer-28/DiscordBot#pexels-image-search-)
 #### ⚪[Search reddit for a random top post of the day](https://github.com/sankeer-28/DiscordBot#random-reddit-post-)
-#### ⚪Notify when any user is playng a specific game and how long they played it
+#### ⚪[Notify when any user is playng a specific game and how long they played it](https://github.com/sankeer-28/DiscordBot#game-notifier-)
 
 This is my first Discord bot. I made it with little knowlege of discord.js.
 If there is any cool feature you find interesting please use it.
@@ -56,6 +56,7 @@ line 262-294 of index.js: type 'r/' followed by a subreddit name. returns a rand
 ## Game Notifier 🎮
  line 298-328 of index.js: provide a specific channel id to send a message. on line 301 put the names of the target games. if any user in your discord server is playing that specific game, thee bot will send a message in 
  specified channel. please modify the message as you wish on line 325. the bot will keep count of how long the user is playing the game.
+ 
 ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/08efa1d5-1084-4843-a794-057cdce9d6a5)
 
 
