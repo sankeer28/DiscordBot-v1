@@ -1,7 +1,7 @@
 # Discord Bot 
 ## A Discord Bot I made for fun. 
 #### ⚪[Search Google images for any image or gif and bot send that to the chat](https://github.com/sankeer-28/DiscordBot#google-images)
-#### ⚪Delete specific gifs/images
+#### ⚪[Delete specific gifs/images](https://github.com/sankeer-28/DiscordBot#delete-specific-gifs-from-specific-users)
 #### ⚪Random Quote, joke, gif of cat, gif of dog
 #### ⚪Reverse image search of any anime,manga...
 #### ⚪Search Pexels for a copyright free image
