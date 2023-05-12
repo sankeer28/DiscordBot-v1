@@ -43,7 +43,7 @@ Your API key will be displayed. Make a note of this,and put it in line 126. you 
 
 ## Reverse image search (for manga,anime,etc😳)
 line 191 of index.js: type 'sauce' followed by a space then a url of any image (perferable from anime,manga,doujin) will return the source url which contains the provided url if the similarity is over 50% using saucenao. 
-saucenao api key must be put in line 191. please ceraet an account at https://saucenao.com/ and find your api in your account settings.
+saucenao api key must be put in line 191. please create a [saucenao account]( https://saucenao.com/) and find your api in your account settings.
 ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/9565dc22-ca30-4692-9cfb-2ca40fe1fbdd)
 
 
