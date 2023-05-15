@@ -63,10 +63,6 @@ line 262-294 of index.js: type 'r/' followed by a subreddit name. returns a rand
 ### If you dont know how, please google how to make a discord bot.
 Make sure these intents are turned on ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/18afdf07-fa72-4a18-876c-1f25d6b1e4f1)
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## line 333 of index.js: please provide your discord bot token here. 
 
 ## Click on startthebot.bat to run locally. 
@@ -74,5 +70,9 @@ Make sure these intents are turned on ![image](https://github.com/sankeer-28/Dis
    You can also run this bot 24/7 using repl.it and a free website pinging service. 
     You can see an example [here](https://replit.com/@sankeer28/discord-bot-example?v=1).
      Copy index.js from here to there.
+     
+  ## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
