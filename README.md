@@ -6,7 +6,7 @@
 #### ⚪[Reverse image search of any anime,manga...](https://github.com/sankeer-28/DiscordBot#reverse-image-search-for-mangaanimeetc)
 #### ⚪[Search Pexels for a copyright free image](https://github.com/sankeer-28/DiscordBot#pexels-image-search-)
 #### ⚪[Search reddit for a random top post of the day](https://github.com/sankeer-28/DiscordBot#random-reddit-post-)
-#### ⚪[Notify when any user is playng a specific game and how long they played it](https://github.com/sankeer-28/DiscordBot#game-notifier-)
+#### ⚪[Notify when any user is playing a specific game and how long they played it](https://github.com/sankeer-28/DiscordBot#game-notifier-)
 
 This is my first Discord bot. I made it with little knowlege of discord.js.
 If there is any cool feature you find interesting please use it.
