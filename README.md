@@ -3,7 +3,7 @@
 #### ⚪[Search Google images for any image or gif and bot send that to the chat](https://github.com/sankeer-28/DiscordBot#google-images)
 #### ⚪[Delete specific gifs/images](https://github.com/sankeer-28/DiscordBot#delete-specific-gifs-from-specific-users)
 #### ⚪[Random Quote, joke, gif of cat, gif of dog](https://github.com/sankeer-28/DiscordBot#random-quotesjokesgifs)
-#### ⚪[Reverse image search of any anime,manga...](https://github.com/sankeer-28/DiscordBot#reverse-image-search-for-mangaanimeetc)
+#### ⚪[Reverse image search](https://github.com/sankeer-28/DiscordBot#reverse-image-search)
 #### ⚪[Search Pexels for a copyright free image](https://github.com/sankeer-28/DiscordBot#pexels-image-search-)
 #### ⚪[Search reddit for a random top post of the day](https://github.com/sankeer-28/DiscordBot#random-reddit-post-)
 #### ⚪[Notify when any user is playing a specific game and how long they played it](https://github.com/sankeer-28/DiscordBot#game-notifier-)
@@ -41,10 +41,9 @@ To get your API keys [Visit this page](https://developers.google.com/custom-sear
 In the menu that appears, click + Create a new project and enter a project name (ex. Discord Image Search Bot). Then click Next.
 Your API key will be displayed. Make a note of this,and put it in line 126. you may create new projects which will give you another api key. Each key has a daily limit of 100 searches hence the need of multiple api keys.
 
-## Reverse image search (for manga,anime,etc😳)
-line 191 of index.js: type 'sauce' followed by a space then a url of any image (perferably from anime, manga, art) will return the source url which contains the provided image if the similarity is over 50% using saucenao. 
+## Reverse image search
+line 191 of index.js: type 'sauce' followed by a space then a url of any image  will return the source url which contains the provided image if the similarity is over 50% using saucenao. 
 saucenao api key must be put in line 191. please create a [saucenao account]( https://saucenao.com/) and find your api in your account settings.
-![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/9565dc22-ca30-4692-9cfb-2ca40fe1fbdd)
 
 
 ## Pexels image search 🔍 
@@ -54,7 +53,7 @@ line 228-260 of index.js: type 'image' followed by a space and a query. uses the
 line 262-294 of index.js: type 'r/' followed by a subreddit name. returns a random image from the top posts of the day from specified reddit.
 
 ## Game Notifier 🎮
- line 298-328 of index.js: provide a specific channel id to send a message. on line 301 put the names of the target games. if any user in your discord server is playing that specific game, thee bot will send a message in 
+ line 298-328 of index.js: provide a specific channel ID to send a message. on line 301 put the names of the target games. if any user in your discord server is playing that specific game, thee bot will send a message in 
  specified channel. please modify the message as you wish on line 325. the bot will keep count of how long the user is playing the game.
  
 ![image](https://github.com/sankeer-28/DiscordBot/assets/112449287/08efa1d5-1084-4843-a794-057cdce9d6a5)
