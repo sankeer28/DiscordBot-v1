@@ -9,7 +9,7 @@
 #### ⚪[Notify when any user is running a specific application and how long the user used it](https://github.com/sankeer-28/DiscordBot#application-timer-)
 
 ### some features may be deprecated as this uses an older version of node.js
-## Install node.js, inside the folder install discord.js
+## [Install node.js](https://nodejs.org/en/download), install discord.js
       npm install discord.js
 ### Type !help in chat for basic help
 
