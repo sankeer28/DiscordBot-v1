@@ -1,5 +1,6 @@
 # Discord Bot 
 ######  Discord bot, built using the Discord.js library with a variety of functionality.
+## V2 available [here](https://github.com/sankeer28/DiscordBot-v2)
 #### ⚪[Search Google images](https://github.com/sankeer-28/DiscordBot#google-images)
 #### ⚪[Delete specific gifs/images](https://github.com/sankeer-28/DiscordBot#delete-specific-gifs-from-specific-users)
 #### ⚪[Random Quote, joke, gif of cat, gif of dog](https://github.com/sankeer-28/DiscordBot#random-quotesjokesgifs)
